@@ -15,7 +15,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/sosarenaint/Travel-Companion.git`
+- Run this command `git clone https://github.com/sosamsony/Travel-Companion.git`
 - You are now in the dev environment and you can play around
 - Search Might not work because \*Billing details not set in GCP
 
